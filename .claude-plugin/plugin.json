@@ -1,0 +1,10 @@
+{
+  "name": "jira-prod",
+  "description": "PossibleWorks dev integration — Jira → plan → code → PR → Coolify preview",
+  "author": {
+    "name": "Sudheer",
+    "email": ""
+  },
+  "version": "1.0.0",
+  "homepage": "https://github.com/sudheer8177/jira-prod-claude-plugin"
+}
